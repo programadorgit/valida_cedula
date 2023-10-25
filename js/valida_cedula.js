@@ -1,5 +1,5 @@
-
-                
+   
+   
   function valida(cedula){
                 cedula = document.getElementById('cedula').value;
                 c = cedula.split('');
